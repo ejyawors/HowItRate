@@ -43,8 +43,8 @@ input {
 
 .search-btn {
   position: absolute;
-  top: 18%;
-  right: 30%;
+  top: 21px;
+  right: 50px;
   cursor: pointer;
   width: 120px;
   height: 55px;
