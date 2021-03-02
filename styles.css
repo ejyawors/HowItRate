@@ -21,7 +21,7 @@ form {
   flex-direction: row;
   align-items: center;
   position: fixed;
-  top: 25%;
+  top: 15%;
   left: 50%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
