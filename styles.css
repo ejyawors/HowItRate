@@ -31,8 +31,9 @@ input {
   padding: 15px 30px;
   width: 400px;
   padding: 6px 30px;
+  border-radius: 50px;
   color: #fff;
-  font: 16px system-ui;
+  font: 18px system-ui;
   outline: none;
 }
 
