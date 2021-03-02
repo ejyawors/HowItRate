@@ -49,6 +49,10 @@ input {
   cursor: pointer;
   width: 120px;
   height: 55px;
+  border: 0;
+  border-radius: 50px;
+  outline: none;
+  font-weight: bold;
 }
 
 svg {
@@ -103,8 +107,11 @@ svg {
 
 .container{
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+  position: relative;
+  padding: 20px 50px;
+  
+  /*flex-direction: row;
+  justify-content: space-between;*/
 }
 
 .wrapper{
