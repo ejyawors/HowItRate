@@ -108,9 +108,9 @@ svg {
 .container{
   display: flex;
   position: relative;
-  padding: 20px 50px;
+  /*padding: 20px 50px;
   
-  /*flex-direction: row;
+  flex-direction: row;
   justify-content: space-between;*/
 }
 
