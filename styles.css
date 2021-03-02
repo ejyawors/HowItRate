@@ -102,6 +102,13 @@ svg {
   justify-content: space-between;
 }
 
+.wrapper{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .login-btn {
     font-family: Hack, monospace;
     background: #8391c9;
