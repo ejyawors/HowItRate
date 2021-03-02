@@ -27,11 +27,13 @@ form {
 
 input {
   all: unset;
-  font: 16px system-ui;
+  border: 3px solid #fff;
+  padding: 15px 30px;
+  width: 400px;
+  padding: 6px 30px;
   color: #fff;
-  height: 100%;
-  width: 100%;
-  padding: 6px 10px;
+  font: 16px system-ui;
+  outline: none;
 }
 
 ::placeholder {
